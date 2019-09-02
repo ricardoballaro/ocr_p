@@ -1,0 +1,11 @@
+flask
+flask_restful
+click  
+itsdangerous 
+Jinja2 
+MarkupSafe  
+Werkzeug 
+pytesseract  
+numpy
+opencv-python  
+requests
